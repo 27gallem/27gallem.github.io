@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Baseball Stats</title>
+</head>
+<body>
+
+<h1>Baseball Team Statistics</h1>
+
+<table border="1">
+    <caption>2025 Varsity Baseball Player Stats</caption>
+
+    <tr>
+        <th rowspan="2">Player Name</th>
+        <th colspan="2">Batting Stats</th>
+    </tr>
+
+    <tr>
+        <th>Batting Average</th>
+        <th>Home Runs</th>
+    </tr>
+
+    <tr>
+        <td>John Smith</td>
+        <td>.320</td>
+        <td>5</td>
+    </tr>
+
+    <tr>
+        <td>Alex Johnson</td>
+        <td>.285</td>
+        <td>3</td>
+    </tr>
+
+    <tr>
+        <td>Chris Lee</td>
+        <td>.301</td>
+        <td>4</td>
+    </tr>
+
+</table>
+
+<h2>Team Strengths</h2>
+
+<ul>
+    <li>Strong batting averages across players</li>
+    <li>Consistent home run hitters</li>
+    <li>Good team coordination and defense</li>
+</ul>
+
+</body>
+</html>
